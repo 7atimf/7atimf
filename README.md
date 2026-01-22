@@ -6,7 +6,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2563EB&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;+I'm+Hatim+Fadoul;" />
 </h1>
-
 <p align="center">
   <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="Data Analysis Gif" width="60%" />
 </p>
