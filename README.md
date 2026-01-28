@@ -20,9 +20,9 @@ Data Analyst & AI enthusiast, specialized in data analysis, Power BI dashboards,
 
 <h1 align="left">Skills:</h1>
 
-<p align="LEFT">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,scikitlearn,grafana,sqlite,mysql,postgresql,mongodb,r,vscode,pycharm,anaconda,arduino,illustrator,c,github,git,figma,raspberrypi,windows,powershell,html&theme=dark&perline=18" />
+    <img src="https://skillicons.dev/icons?i=python,scikitlearn,grafana,sqlite,mysql,postgresql,mongodb,r,vscode,pycharm,anaconda,arduino,illustrator,ps,c,github,git,figma,notion,raspberrypi,docker,kali,linux,windows,powershell,html&theme=dark&perline=13" />
   </a>
 </p>
 
